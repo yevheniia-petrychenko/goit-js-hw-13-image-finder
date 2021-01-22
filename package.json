@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-12-countries",
+  "name": "goit-js-hw-13-image-finder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://yevheniia-petrychenko.github.io/goit-js-hw-12-countries/",
+  "homepage": "https://yevheniia-petrychenko.github.io/goit-js-hw-13-image-finder/",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "basiclightbox": "^5.0.4",
     "handlebars": "^4.1.2",
     "lodash.debounce": "^4.0.8",
     "toastr": "^2.1.4"

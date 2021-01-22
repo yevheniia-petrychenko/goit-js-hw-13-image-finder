@@ -1,2 +1,4 @@
-import './js/input-refresh'
-import './css/styles.css'
+import './js/apiService'
+import './js/gallery'
+import './js/refs'
+refs.form.addEventListener('submit', handleFormSubmit);

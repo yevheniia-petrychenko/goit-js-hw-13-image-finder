@@ -1,7 +1,7 @@
 const refs = {
-    input: document.querySelector('.js-input'),
-    outputContainer: document.querySelector('.js-container'),
-    container: document.querySelector('.container')
+    form: document.querySelector('.search-form'),
+    gallery: document.querySelector('.gallery'),
+    loadBtn: document.querySelector('.load-button')
 };
 
 export default refs;
